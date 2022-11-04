@@ -1,0 +1,4 @@
+//question 5 
+let famous_person = "hammad"
+let message = " you are my friend"
+console.log(famous_person+message)
