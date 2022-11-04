@@ -1,0 +1,4 @@
+// question number 1 
+
+let sujal = "Hello susheel, would you like to learn some Python today"
+console.log(sujal)
