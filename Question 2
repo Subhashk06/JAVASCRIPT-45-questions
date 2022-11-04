@@ -10,14 +10,14 @@ console.log(result1)
 // name in titlecase
 var my_name = "sujal";
 
-//dividing name osama into two parts ( s and ujal ) by using slice() function
+//dividing name sujal into two parts ( s and ujal ) by using slice() function
 var separating_name = my_name.slice(1);
 console.log(separating_name);
 
-//getting first letter of name osama with chartAt() function
+//getting first letter of name sujal with chartAt() function
 var firstletter= my_name.charAt(0);
 
-// capitalizing first letter of osama
+// capitalizing first letter of sujal
 var capatilize_First_Letter = firstletter.toUpperCase();
 console.log(capatilize_First_Letter);
 
