@@ -1,0 +1,7 @@
+
+//question 9
+// Store your favorite number in a variable. Then, using that variable, create a message that reveals your favorite number. Print that message.
+
+let my_favorite = 66;
+let result=("my favorite number is :"+ '\t' + my_favorite )
+console.log(result)
