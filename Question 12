@@ -1,0 +1,9 @@
+
+//question 12
+
+let name = ["sujal","hammad","rehan","raman"]
+
+console.log(name[0]+" is the team captain of a football team")
+console.log(name[1]+" is the goolkeeper of a football team")
+console.log(name[2]+" is the defender of a football team")
+console.log(name[3]+" is the attacker of a football team")
