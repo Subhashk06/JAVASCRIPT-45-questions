@@ -1,0 +1,7 @@
+
+//Question 10
+let myName = "sujal kukreja";
+let myAge = 18;
+
+/* Printing the string that is printing my name and age. */
+console.log ("My Name is : "+ myName + '\n' + "my Age is : " + myAge);
