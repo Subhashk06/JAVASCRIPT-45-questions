@@ -1,0 +1,13 @@
+//question 16
+bigtable = [my_guest+" hey! listen i found a bigger table so i am inviting more people"]
+console.log(...bigtable)
+my_guest.push("ahmed","sujal","sandesh","ali")
+
+console.log(...my_guest)
+console.log(my_guest[0]+ " you better bring gift this time")
+console.log(my_guest[1]+ " please be on time")
+console.log(my_guest[2]+ " you do nothing just come ")
+console.log(my_guest[3]+ " you better bring gift this time")
+console.log(my_guest[4]+ " please be on time")
+console.log(my_guest[5]+ " you do nothing just come ")
+console.log(my_guest[6]+ " you do nothing just come ")
