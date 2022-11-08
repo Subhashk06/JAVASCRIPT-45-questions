@@ -1,0 +1,5 @@
+//question 14
+my_guest = ["hammad","rehna","raman"]
+console.log(my_guest[0]+ " you better bring gift this time")
+console.log(my_guest[1]+ " please be on time")
+console.log(my_guest[2]+ " you do nothing just come ")
