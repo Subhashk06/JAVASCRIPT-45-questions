@@ -1,0 +1,3 @@
+favorite_transportation = ['MY BWM', "airplane"]
+
+console.log("I go to work using " +favorite_transportation[0] )
