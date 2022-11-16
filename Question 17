@@ -1,0 +1,11 @@
+//question 17
+console.log(...my_guest+" sorry everyone my new dinner table is not here yet so i can only invite two people")
+console.log(my_guest.pop(2)+ " sorry you are not invited ")
+console.log(my_guest.pop(3)+ " sorry you are not invited")
+console.log(my_guest.pop(4)+ " sorry you are not invited")
+console.log(my_guest.pop(5)+ " sorry you are not invited ")
+console.log(my_guest.pop(6)+ " sorry you are not invited ")
+
+console.log(my_guest.pop(0))
+console.log(my_guest.pop(1))
+console.log(my_guest)
