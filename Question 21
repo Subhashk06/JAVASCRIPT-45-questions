@@ -1,0 +1,9 @@
+//question 21
+let list1  = 
+    {counrty : "pakistan" ,
+     lake : "attabadLake" ,
+     city :"karachi" , 
+     language :  "urdu"}
+
+
+console.log(list1)
