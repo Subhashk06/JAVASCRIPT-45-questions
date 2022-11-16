@@ -1,0 +1,7 @@
+//question 18
+
+let arr = ["america","greece","india","uk","russia"]
+console.log(arr.sort())
+console.log(arr.reverse())
+console.log(arr.reverse())
+console.log(arr.reverse())
