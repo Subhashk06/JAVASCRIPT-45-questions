@@ -1,0 +1,6 @@
+//question 19
+let guests = ["subhas", "ahmed", "kirsh"];
+
+let totalGuests = guests.length;
+let final = ' I m inviting ${totalGuests} people to the dinner ';
+console.log(final);
